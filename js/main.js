@@ -1,7 +1,3 @@
-//definisci oggetto
-//stampa in console
-//trasforma in stringa
-
 const team = [
     {
         name: 'Wayne Barnett',
