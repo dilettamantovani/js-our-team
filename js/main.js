@@ -54,5 +54,5 @@ for (let i = 0; i < team.length; i++) {
                 <p class="card-text">${teamMember.title}</p>
             </div>
         </div>`;
-    document.querySelector('.container').appendChild(col_4);
+    document.querySelector('#wrapper').appendChild(col_4);
 }
