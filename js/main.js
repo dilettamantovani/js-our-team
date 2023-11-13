@@ -55,4 +55,6 @@ for (let i = 0; i < team.length; i++) {
             </div>
         </div>`;
     document.querySelector('#wrapper').appendChild(col_4);
+
+    console.log(col_4);
 }
